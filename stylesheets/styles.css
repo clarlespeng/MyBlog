@@ -290,6 +290,7 @@ footer {
   padding: 20px 0 0;
   color: #ccc;
   overflow: hidden;
+  margin-left:100px;
 }
 footer a {
   color: #fff;

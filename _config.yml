@@ -1,5 +1,5 @@
 username: clarlespeng
-baseurl: /StrayBirds
+baseurl: /StrayBird
 markdown: redcarpet
 safe: false
 pygments: true
